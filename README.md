@@ -1,6 +1,6 @@
 # **HORISEON**
 
-![Page preview](./assets/images/horiseon-preview.png)
+![Page preview](./assets/images/preview.png)
 
 This is the official *Horiseon* landing page source.  
 There you'll learn about the importance of search engine optimization (SEO - hence the name),  
