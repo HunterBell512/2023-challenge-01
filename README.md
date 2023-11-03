@@ -8,4 +8,4 @@ how to manage company reputation, and our company's mission to help businesses b
 
 
 ## **CHECK US OUT**
-Check us out for yourself at: https://hunterbell512.github.io/horiseon/
+Check us out for yourself at: https://hunterbell512.github.io/horiseon-2023/
